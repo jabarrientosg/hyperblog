@@ -51,4 +51,16 @@ body
 {
     background: white;
     padding: 1em;
+<<<<<<< HEAD
+=======
+
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> 2f2e8c09c66097bfeedef7eb477a6fa3fc778e1f
 }
